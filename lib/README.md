@@ -1,6 +1,7 @@
 This file is in the `lib` directory.
 
-Any **libraries** on which your project depends should be kept **in this directory**.
+Any **libraries** on which your project depends should be kept **in this directory**.  
+
 This typically includes custom builds of third-party software, private (i.e. to a company) codebases, and native libraries.
 
 ---
