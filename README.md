@@ -16,6 +16,9 @@ A nice alternative is Project Scaffold: https://github.com/fsprojects/ProjectSca
 * src
     * The source code for this repository
 	* The root of this folder should consist only of folders any sln's or .*proj files should be within appropriate solution or project folders.
+* data
+    * The data projects and files for this repository
+	* Data projects (e.g. *.sqlproj) should be stored in directories, data files (e.g. *.json, *.xml) may be stored in the root of this folder.
 
 ### Dev Notes
 * It is specific to .NET only in it's use of a visual studio style .gitignore and the nuget.config
